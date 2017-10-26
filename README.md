@@ -11,10 +11,15 @@ An incredibly simple "loading spinner" for python projects
 NOTE: Please do NOT import spinner. You MUST use loadingspinner.
 
 `import loadingspinner
+
 loadingspinner.setText("Loading...")
+
 loadingspinner.setTextColor("yellow")
+
 loadingspinner.start()
+
 <lines of code>
+
 loadingspinner.stop()`
 
 # Customizing the spinner
